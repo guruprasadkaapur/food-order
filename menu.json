@@ -1,0 +1,338 @@
+[
+  {
+    "category": "Starters",
+    "name": "Spring Rolls",
+    "description": "Crispy vegetable spring rolls.",
+    "price": "5",
+    "image": "images/spring-rolls.jpeg"
+  },
+  {
+    "category": "Main Course",
+    "name": "Butter Chicken",
+    "description": "Creamy and flavorful butter chicken.",
+    "price": "12",
+    "image": "images/butter-chicken.jpeg"
+  },
+  {
+    "category": "Breads",
+    "name": "Garlic Naan",
+    "description": "Soft and buttery garlic naan.",
+    "price": "3",
+    "image": "images/garlic-naan.jpeg"
+  },
+  {
+    "category": "Ice Creams",
+    "name": "Vanilla Ice Cream",
+    "description": "Classic vanilla ice cream.",
+    "price": "4",
+    "image": "images/vanilla-ice-cream.jpeg"
+  },
+  {
+    "category": "Rice Items",
+    "name": "Vegetable Biryani",
+    "description": "Spicy and aromatic vegetable biryani.",
+    "price": "10",
+    "image": "images/vegetable-biryani.jpeg"
+  },
+  {
+    "category": "Juice & Milkshakes",
+    "name": "Mango Milkshake",
+    "description": "Refreshing mango milkshake.",
+    "price": "6",
+    "image": "images/mango-milkshake.jpeg"
+  },
+  {
+    "category": "Starters",
+    "name": "Paneer Tikka",
+    "description": "Grilled cottage cheese with spices.",
+    "price": "7",
+    "image": "images/paneer-tikka.jpeg"
+  },
+  {
+    "category": "Main Course",
+    "name": "Chicken Tikka Masala",
+    "description": "Spicy grilled chicken in a creamy sauce.",
+    "price": "14",
+    "image": "images/chicken-tikka-masala.jpeg"
+  },
+  {
+    "category": "Breads",
+    "name": "Butter Naan",
+    "description": "Soft naan brushed with butter.",
+    "price": "3",
+    "image": "images/butter-naan.jpeg"
+  },
+  {
+    "category": "Ice Creams",
+    "name": "Chocolate Ice Cream",
+    "description": "Rich and creamy chocolate ice cream.",
+    "price": "5",
+    "image": "images/chocolate-ice-cream.jpeg"
+  },
+  {
+    "category": "Rice Items",
+    "name": "Chicken Biryani",
+    "description": "Spicy and flavorful chicken biryani.",
+    "price": "12",
+    "image": "images/chicken-biryani.jpeg"
+  },
+  {
+    "category": "Juice & Milkshakes",
+    "name": "Strawberry Milkshake",
+    "description": "Sweet and refreshing strawberry milkshake.",
+    "price": "6",
+    "image": "images/strawberry-milkshake.jpeg"
+  },
+  {
+    "category": "Starters",
+    "name": "Chicken Wings",
+    "description": "Crispy and spicy chicken wings.",
+    "price": "8",
+    "image": "images/chicken-wings.jpeg"
+  },
+  {
+    "category": "Main Course",
+    "name": "Palak Paneer",
+    "description": "Creamy spinach with cottage cheese.",
+    "price": "10",
+    "image": "images/palak-paneer.jpeg"
+  },
+  {
+    "category": "Breads",
+    "name": "Cheese Naan",
+    "description": "Naan stuffed with melted cheese.",
+    "price": "4",
+    "image": "images/cheese-naan.jpeg"
+  },
+  {
+    "category": "Ice Creams",
+    "name": "Strawberry Ice Cream",
+    "description": "Sweet and fruity strawberry ice cream.",
+    "price": "5",
+    "image": "images/strawberry-ice-cream.jpeg"
+  },
+  {
+    "category": "Rice Items",
+    "name": "Egg Biryani",
+    "description": "Spicy and aromatic egg biryani.",
+    "price": "9",
+    "image": "images/egg-biryani.jpeg"
+  },
+  {
+    "category": "Juice & Milkshakes",
+    "name": "Banana Milkshake",
+    "description": "Creamy and delicious banana milkshake.",
+    "price": "5",
+    "image": "images/banana-milkshake.jpeg"
+  },
+  {
+    "category": "Starters",
+    "name": "Chilli Paneer",
+    "description": "Spicy and tangy paneer dish.",
+    "price": "8",
+    "image": "images/chilli-paneer.jpeg"
+  },
+  {
+    "category": "Main Course",
+    "name": "Dal Makhani",
+    "description": "Creamy and buttery black lentils.",
+    "price": "9",
+    "image": "images/dal-makhani.jpeg"
+  },
+  {
+    "category": "Breads",
+    "name": "Tandoori Roti",
+    "description": "Whole wheat bread cooked in a tandoor.",
+    "price": "2",
+    "image": "images/tandoori-roti.jpeg"
+  },
+  {
+    "category": "Ice Creams",
+    "name": "Mango Ice Cream",
+    "description": "Sweet and tangy mango ice cream.",
+    "price": "5",
+    "image": "images/mango-ice-cream.jpeg"
+  },
+  {
+    "category": "Rice Items",
+    "name": "Prawn Biryani",
+    "description": "Spicy and flavorful prawn biryani.",
+    "price": "15",
+    "image": "images/prawn-biryani.jpeg"
+  },
+  {
+    "category": "Juice & Milkshakes",
+    "name": "Pineapple Juice",
+    "description": "Fresh and tangy pineapple juice.",
+    "price": "4",
+    "image": "images/pineapple-juice.jpeg"
+  },
+  {
+    "category": "Starters",
+    "name": "Fish Fingers",
+    "description": "Crispy and golden fish fingers.",
+    "price": "9",
+    "image": "images/fish-fingers.jpeg"
+  },
+  {
+    "category": "Main Course",
+    "name": "Chicken Korma",
+    "description": "Mild and creamy chicken curry.",
+    "price": "13",
+    "image": "images/chicken-korma.jpeg"
+  },
+  {
+    "category": "Breads",
+    "name": "Lachha Paratha",
+    "description": "Flaky and layered paratha.",
+    "price": "4",
+    "image": "images/lachha-paratha.jpeg"
+  },
+  {
+    "category": "Ice Creams",
+    "name": "Butterscotch Ice Cream",
+    "description": "Rich and creamy butterscotch ice cream.",
+    "price": "6",
+    "image": "images/butterscotch-ice-cream.jpeg"
+  },
+  {
+    "category": "Rice Items",
+    "name": "Mutton Biryani",
+    "description": "Spicy and aromatic mutton biryani.",
+    "price": "18",
+    "image": "images/mutton-biryani.jpeg"
+  },
+  {
+    "category": "Juice & Milkshakes",
+    "name": "Orange Juice",
+    "description": "Fresh and tangy orange juice.",
+    "price": "4",
+    "image": "images/orange-juice.jpeg"
+  },
+  {
+    "category": "Starters",
+    "name": "Chicken Lollipop",
+    "description": "Spicy and crispy chicken lollipops.",
+    "price": "10",
+    "image": "images/chicken-lollipop.jpeg"
+  },
+  {
+    "category": "Main Course",
+    "name": "Rajma Chawal",
+    "description": "Kidney beans curry with rice.",
+    "price": "8",
+    "image": "images/rajma-chawal.jpeg"
+  },
+  {
+    "category": "Breads",
+    "name": "Missi Roti",
+    "description": "Spiced gram flour bread.",
+    "price": "3",
+    "image": "images/missi-roti.jpeg"
+  },
+  {
+    "category": "Ice Creams",
+    "name": "Pista Ice Cream",
+    "description": "Rich and nutty pistachio ice cream.",
+    "price": "6",
+    "image": "images/pista-ice-cream.jpeg"
+  },
+  {
+    "category": "Rice Items",
+    "name": "Jeera Rice",
+    "description": "Fragrant rice cooked with cumin.",
+    "price": "7",
+    "image": "images/jeera-rice.jpeg"
+  },
+  {
+    "category": "Juice & Milkshakes",
+    "name": "Watermelon Juice",
+    "description": "Refreshing and hydrating watermelon juice.",
+    "price": "4",
+    "image": "images/watermelon-juice.jpeg"
+  },
+  {
+    "category": "Starters",
+    "name": "Veg Manchurian",
+    "description": "Crispy vegetable balls in a tangy sauce.",
+    "price": "7",
+    "image": "images/veg-manchurian.jpeg"
+  },
+  {
+    "category": "Main Course",
+    "name": "Kadai Paneer",
+    "description": "Spicy paneer cooked with bell peppers.",
+    "price": "11",
+    "image": "images/kadai-paneer.jpeg"
+  },
+  {
+    "category": "Breads",
+    "name": "Aloo Paratha",
+    "description": "Stuffed potato bread.",
+    "price": "4",
+    "image": "images/aloo-paratha.jpeg"
+  },
+  {
+    "category": "Ice Creams",
+    "name": "Black Currant Ice Cream",
+    "description": "Sweet and tangy black currant ice cream.",
+    "price": "6",
+    "image": "images/black-currant-ice-cream.jpeg"
+  },
+  {
+    "category": "Rice Items",
+    "name": "Lemon Rice",
+    "description": "Tangy and flavorful lemon rice.",
+    "price": "6",
+    "image": "images/lemon-rice.jpeg"
+  },
+  {
+    "category": "Juice & Milkshakes",
+    "name": "Apple Juice",
+    "description": "Fresh and sweet apple juice.",
+    "price": "5",
+    "image": "images/apple-juice.jpeg"
+  },
+  {
+    "category": "Starters",
+    "name": "Chicken 65",
+    "description": "Spicy and crispy chicken bites.",
+    "price": "9",
+    "image": "images/chicken-65.jpeg"
+  },
+  {
+    "category": "Main Course",
+    "name": "Malai Kofta",
+    "description": "Creamy and rich vegetable dumplings.",
+    "price": "12",
+    "image": "images/malai-kofta.jpeg"
+  },
+  {
+    "category": "Breads",
+    "name": "Pudina Paratha",
+    "description": "Mint-flavored stuffed bread.",
+    "price": "4",
+    "image": "images/pudina-paratha.jpeg"
+  },
+  {
+    "category": "Ice Creams",
+    "name": "Coconut Ice Cream",
+    "description": "Creamy and tropical coconut ice cream.",
+    "price": "6",
+    "image": "images/coconut-ice-cream.jpeg"
+  },
+  {
+    "category": "Rice Items",
+    "name": "Tomato Rice",
+    "description": "Tangy and spicy tomato rice.",
+    "price": "7",
+    "image": "images/tomato-rice.jpeg"
+  },
+  {
+    "category": "Juice & Milkshakes",
+    "name": "Grape Juice",
+    "description": "Sweet and refreshing grape juice.",
+    "price": "5",
+    "image": "images/grape-juice.jpeg"
+  }
+]

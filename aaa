@@ -1,0 +1,62 @@
+// document.addEventListener('DOMContentLoaded', () => {
+//   const cart = [];
+//   const tableNumber = Math.floor(Math.random() * 10) + 1;
+
+//   fetch('menu.json')
+//     .then(response => response.json())
+//     .then(data => {
+//       const menuSection = document.getElementById('menu');
+//       data.forEach(item => {
+//         const itemDiv = document.createElement('div');
+//         itemDiv.className = 'menu-item';
+//         itemDiv.innerHTML = `
+//           <div class="card h-100">
+//             <img src="${item.image}" class="card-img-top" alt="${item.name}">
+//             <div class="card-body">
+//               <h3 class="card-title">${item.name}</h3>
+//               <p class="card-text">${item.description}</p>
+//               <p class="card-text"><strong>${item.price}</strong></p>
+//               <button class="add-to-cart-btn">Add to Cart</button>
+//             </div>
+//           </div>
+//         `;
+//         menuSection.appendChild(itemDiv);
+
+//         const addToCartBtn = itemDiv.querySelector('.add-to-cart-btn');
+//         addToCartBtn.addEventListener('click', () => {
+//           cart.push(item);
+//           updateCart();
+//         });
+//       });
+
+//       document.getElementById('search').addEventListener('input', (e) => {
+//         const searchTerm = e.target.value.toLowerCase();
+//         const items = document.querySelectorAll('.menu-item');
+//         items.forEach(item => {
+//           const name = item.querySelector('.card-title').textContent.toLowerCase();
+//           item.style.display = name.includes(searchTerm) ? 'block' : 'none';
+//         });
+//       });
+//     });
+
+//   function updateCart() {
+//     const cartItems = document.getElementById('cart-items');
+//     cartItems.innerHTML = '';
+//     cart.forEach(item => {
+//       const li = document.createElement('li');
+//       li.textContent = `${item.name} - ${item.price}`;
+//       cartItems.appendChild(li);
+//     });
+//   }
+
+//   document.getElementById('order-now').addEventListener('click', () => {
+//     if (cart.length === 0) {
+//       alert('Your cart is empty!');
+//     } else {
+//       const orderDetails = cart.map(item => `${item.name} - ${item.price}`).join('\n');
+//       alert(`Your order for Table ${tableNumber} has been placed!\n\n${orderDetails}`);
+//       cart.length = 0;
+//       updateCart();
+//     }
+//   });
+// });

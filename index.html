@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Restaurant Menu</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header>
+      <div class="header-content">
+        <h1>GM Restaurant</h1>
+        <div class="top-right-info">
+          <p>Address: Davanger Road, Chitradurga</p>
+          <p>Phone: 7019616255</p>
+        </div>
+        <div class="search-container">
+          <input type="text" id="search" placeholder="Search items..." />
+          <i class="fas fa-search"></i>
+        </div>
+      </div>
+    </header>
+    <main>
+      <section id="menu" class="menu-grid"></section>
+      <section id="cart" hidden>
+        <h2>Your Cart <i class="fas fa-shopping-cart"></i></h2>
+        <ul id="cart-items"></ul>
+        <div id="total-amount">Total: INR 0</div>
+        <button id="order-now">Order Now</button>
+      </section>
+    </main>
+    <footer>
+      <div class="footer-content container">
+        <div class="social-media-icons">
+          <a href="#"><i class="fab fa-facebook-square fa-2x"></i></a>
+          <a href="#"><i class="fab fa-twitter-square fa-2x"></i></a>
+          <a href="#"><i class="fab fa-instagram-square fa-2x"></i></a>
+        </div>
+        <div class="footer-buttons">
+          <a
+            href="https://maps.google.com/?q=Chitradurga"
+            target="_blank"
+            class="footer-btn"
+            >View on Map</a
+          >
+          <button id="pay-now-btn" class="footer-btn">Pay Now</button>
+          <div id="image-container" class="hidden">
+            <img src="images/paymentt.png" alt="Payment Successful" />
+          </div>
+        </div>
+      </div>
+      <div class="heart-container">
+        <p>Made with ❤️ by GM Restaurant</p>
+      </div>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
